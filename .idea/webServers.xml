@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d0293f56-b15c-47a6-b643-ca83f5803c1a" name="sad">
+        <fileTransfer rootFolder="/home/mic" accessType="SFTP" host="212.64.76.150" port="22" sshConfigId="cc19674b-e6ed-4b22-9f7d-4dc40004912d" sshConfig="root@212.64.76.150:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
